@@ -48,10 +48,22 @@ const plusAll = (arr)=>{
 }
 plusAll(obj2.data)
 
-//3. setTimeout 이용해보기 (1초 뒤에 this.innerHTML 콘솔창에 출력)
-const timer = ()=>{
-
+//답안 : '오브젝트 내'의 함수 / this 키워드 사용
+obj2.sum = function(){
+  let addAll = 0
+  this.data.forEach((a)=>{
+    addAll = addAll + a
+  })
+  console.log(addAll)
 }
+obj2.sum()
+
+//3. setTimeout 이용해보기 (1초 뒤에 this.innerHTML 콘솔창에 출력)
 document.getElementById('btn').addEventListener('click',setTimeout(function(){
+  console.log(this.innerHTML)
+},1000))
+
+//⭐️ 답안: funcion 키워드 사용시 this가 window으로 찍혀서 this.innerHTML는 undefined로 출력된다. 여기서는 상위 this 값을 그대로 가져오는 화살표 함수 사용해야함.
+document.getElementById('btn').addEventListener('click',setTimeout(()=>{
   console.log(this.innerHTML)
 },1000))
