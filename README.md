@@ -7,3 +7,6 @@
 4) [Template Literals](https://github.com/devSeung0v0/TIL_JS/blob/main/templateLiterals.js)
 5) [spread 연산자](https://github.com/devSeung0v0/TIL_JS/blob/main/spreadOperator.js)
 6) [default parameter, arguments, rest parameter](https://github.com/devSeung0v0/TIL_JS/blob/main/function.js)
+7) [data type](https://github.com/devSeung0v0/TIL_JS/blob/main/dataType.js)
+8) [Constructor&Prototype](https://github.com/devSeung0v0/TIL_JS/blob/main/constructor.js)
+9) [Object.create&Class](https://github.com/devSeung0v0/TIL_JS/blob/main/class.js)
