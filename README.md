@@ -10,3 +10,4 @@
 7) [data type](https://github.com/devSeung0v0/TIL_JS/blob/main/dataType.js)
 8) [Constructor&Prototype](https://github.com/devSeung0v0/TIL_JS/blob/main/constructor.js)
 9) [Object.create&Class](https://github.com/devSeung0v0/TIL_JS/blob/main/class.js)
+10) [Getter&Setter](https://github.com/devSeung0v0/TIL_JS/blob/main/getter%26setter.js)
