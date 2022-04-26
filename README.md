@@ -11,3 +11,6 @@
 8) [Constructor&Prototype](https://github.com/devSeung0v0/TIL_JS/blob/main/constructor.js)
 9) [Object.create&Class](https://github.com/devSeung0v0/TIL_JS/blob/main/class.js)
 10) [Getter&Setter](https://github.com/devSeung0v0/TIL_JS/blob/main/getter%26setter.js)
+11) [Destructuring](https://github.com/devSeung0v0/TIL_JS/blob/main/destructuring.js)
+12) [동기,비동기 처리와 콜백함수](https://github.com/devSeung0v0/TIL_JS/blob/main/async.js)
+13) [Promise 패턴](https://github.com/devSeung0v0/TIL_JS/blob/main/promise.js)
