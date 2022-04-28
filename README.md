@@ -16,4 +16,4 @@
 13) [Promise 패턴](https://github.com/devSeung0v0/TIL_JS/blob/main/promise.js)
 14) [async&await](https://github.com/devSeung0v0/TIL_JS/blob/main/async%26await.js)
 15) [for 반복문과 enumerable,iterable 자료형](https://github.com/devSeung0v0/TIL_JS/blob/main/for.js)
-16) 
+16) [Symbol 자료형](https://github.com/devSeung0v0/TIL_JS/commit/61059c2158d73a4df4b65e461b5f2f1370351c4c)
