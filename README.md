@@ -14,3 +14,6 @@
 11) [Destructuring](https://github.com/devSeung0v0/TIL_JS/blob/main/destructuring.js)
 12) [동기,비동기 처리와 콜백함수](https://github.com/devSeung0v0/TIL_JS/blob/main/async.js)
 13) [Promise 패턴](https://github.com/devSeung0v0/TIL_JS/blob/main/promise.js)
+14) [async&await](https://github.com/devSeung0v0/TIL_JS/blob/main/async%26await.js)
+15) [for 반복문과 enumerable,iterable 자료형](https://github.com/devSeung0v0/TIL_JS/blob/main/for.js)
+16) 
