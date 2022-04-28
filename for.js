@@ -13,7 +13,7 @@ for(let i=0; i < 3; i ++){
 
 //3️⃣ for in 반복문(Object 전용)
 //용도 : Object에 있던 값을 전부 하나씩 꺼내서 사용할 때
-//특징 1: ⭐️ enumarable한(셀 수 있는 = 반복문에서 출력할 수 있는) 것만 반복
+//특징 1: ⭐️ enumerable한(셀 수 있는 or 나열할 수 있는) 것만 반복
 const obj = { name : 'Kim', age : 30}
 
 for(let key in obj){
@@ -43,6 +43,7 @@ for(let key2 in obj2){
 
 //4️⃣ for of 반복문(iterable 전용)
 //Array,String,argumnents,NodeList,Map,Set...등에 사용
+//특징: iterable한(반복 가능한) 자료형에만 사용 가능
 const array = [2,3,4,5]
 
 for(let item of array){
@@ -53,4 +54,3 @@ for(let spell of '도레미파솔'){
   console.log(spell)//String 안의 값들을 하나씩 꺼내준다
 }
 
-//특징 1: iterable한 자료형에만 사용 가능
